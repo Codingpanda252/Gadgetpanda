@@ -75,10 +75,6 @@ To run a local version of the GadgetPanda website, follow these steps:
 
 Contributions to GadgetPanda are welcome! Feel free to open issues for any bugs or improvements you come across. If you'd like to contribute code, please fork the repository, create a new branch, commit your changes, and submit a pull request.
 
-## Contact
-
-For any inquiries or support, you can reach out to the project creator, CodingPanda25, at [contact@gadgetpanda.com](mailto:contact@gadgetpanda.com).
-
 ## License
 
 This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute the code as per the terms of the license.
